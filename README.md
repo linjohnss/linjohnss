@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @linjohnss
 - 🏫 I’m a student of Nation Cheng Kung University
-- 👀 I’m interested in Robot Vision,Deep Learning,Machine Learning
-- 🌱 I’m currently learning SLAM,ROS
+- 👀 I’m interested in Robot Vision, Deep Learning, Machine Learning
+- 🌱 I’m currently learning SLAM, ROS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me：linjohn0903@gmail.com
 
