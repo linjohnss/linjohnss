@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @linjohnss
-- 🏫 I’m a student of National Cheng Kung University
-- 👀 I’m interested in Robot Vision, Deep Learning, Machine Learning
-- 🌱 I’m currently learning SLAM, ROS
-- 📫 How to reach me：linjohn0903@gmail.com
+- 👋 Hi, My name is John Lin
+- 🏫 Student of National Cheng Kung University CSIE & Geomatics
+- 👀 Interested in `Robotic Vision`, `SLAM`, `Deep Learning`
+- 📫 Contact me：linjohn0903@gmail.com
