@@ -1,4 +1,4 @@
 - 👋 Hi, My name is John Lin
-- 🏫 Student of National Cheng Kung University CSIE & Geomatics
-- 👀 Interested in `Robotic Vision`, `SLAM`, `Deep Learning`
+- 🏫 Graduate Student of National Yang Ming Chiao Tung University
+- 👀 Interested in `Computer Vision`, `SLAM`, `Deep Learning`
 - 📫 Contact me：linjohn0903@gmail.com
