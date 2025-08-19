@@ -1,4 +1,4 @@
 - 👋 Hi, My name is Chin-Yang (John) Lin
-- 🏫 Graduate Student of National Yang Ming Chiao Tung University
+- 🏫 Ph.D. Student of National Yang Ming Chiao Tung University
 - 👀 Interested in `Computer Vision`, `Image Processing`, and `Deep Learning`
 - 📫 Contact me：linjohn0903@gmail.com
